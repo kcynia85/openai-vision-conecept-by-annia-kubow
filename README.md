@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # react-openai-vision-app-acorn
 This is the UI for building out our Vision App.
 
@@ -10,3 +11,6 @@ We will start up this project so that everyone can start off in the same place a
 
 
 
+=======
+# openai-vision-conecept-by-annia-kubow
+>>>>>>> 00a78aea6ed0682672c6fb73ee3d6e1721672743
